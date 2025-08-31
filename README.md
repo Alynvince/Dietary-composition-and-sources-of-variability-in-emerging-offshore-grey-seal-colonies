@@ -1,1 +1,10 @@
-# Dietary-composition-and-sources-of-variability-in-emerging-offshore-grey-seal-colonies
+# Dietary composition and sources of variability in emerging offshore grey seal colonies in the Northwest Atlantic
+
+IRANI, Alymuhammad I. (1,2), BORDELEAU, Xavier (1), BENOÎT, Hugues P. (1), GARNIER, Théo (1,2), CUSSON, Pier-Olivier (2), RIVARD, Pierre (1), HAMMILL, Mike O. (1), and PELLETIER, Fanie (2)
+
+1 Institut Maurice-Lamontagne, Department of Fisheries and Oceans Canada, 850 Rte de la Mer, Mont-Joli, QC G5H 3Z4 
+2 Dép. de biologie, Faculté des Sciences, Université de Sherbrooke, 2500 Bd de l’université, Sherbrooke, QC J1K 2R1
+
+Apex predators are the centre of human–wildlife conflict, particularly when their prey include commercially important species, making it critical to understand their diet and ecological impact. In sixty years, the Atlantic grey seal (*Halichoerus grypus* Fabricius, 1791) population of the Gulf of St. Lawrence (Gulf) has increased ten-folds. In response to declining sea ice, new offshore colonies have emerged in the Magdalen Islands, now the second-largest aggregation in Canada. Yet, quantitative estimates of diet composition for these colonies are limited, hindering assessments of their impact on the recovery of valuable fish stocks. Using hard-part analyses collected between 2015 and 2023, we (I) characterized the seasonal diet of these offshore colonies, (II) compared diet offshore with long-established coastal colonies, and (III) examined inter-annual and age-sex variation. Diet at emerging offshore colonies differed drastically from coastal colonies, reflecting a distinct prey assemblage exploited by a growing number of animals. Diet variation was more pronounced across years than age–sex groups, with year-to-year differences likely driven by shifts in prey availability and age-sex patterns reflecting differences in foraging capacity. These findings provide timely insights into grey seal foraging ecology across major southern Gulf colonies, needed to support ecosystem-based fisheries management.
+
+NOTE: Data will also be made accessible through the Open Government Portal of the Department of Fisheries and Oceans Canada, upon the publication of our research article.
